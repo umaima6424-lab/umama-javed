@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Umama Javed</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+</head>
+<body>
+    <section class="hero">
+        <h1></h1>
+    </section>
+    <div id="progress"></div>
+    <nav>
+        <div class="logo">
+            <img src="images/IMG-20260716-WA0010.jpg">
+        </div>
+        <ul class="jo">
+            <li><a href="#Home"><i class="fa-solid fa-house"></i>Home</a></li>
+             <li><a href="#About"><i class="fa-solid fa-user"></i>About</a></li>
+              <li><a href="#Skills"><i class="fa-solid fa-code"></i>Skills</a></li>
+               <li><a href="#Projects"><i class="fa-solid fa-folder-open"></i>Projects</a></li>
+                <li><a href="#Contact"><i class="fa-solid fa-envelope"></i>Contact</a></li>
+        </ul>
+    </nav>
+    <section id="Home">
+     <div class="co">
+        <a href="https://www.linkedin.com/in/umama-javed-461893379" target="_blank">LinkedIn
+            <i class="fa-brands fa-linkedin"></i>
+        </a>
+        <a href="mailto:umaima6424@gmail.com" target="_blank">Email
+            <i class="fa-solid fa-envelope"></i>
+        </a>
+        <a href="https://github.com/umaima6424-lab" target="_blank">Github
+            <i class="fa-brands fa-github"></i>
+        </a>
+     </div>
+        <div class="no">
+        <img src="images/IMG-20260719-WA0014.jpg">
+        </div>
+        <div class="yo">
+        <h1>UMAMA</h1>
+        <h1>JAVED</h1>
+        </div>
+        <div class="yon">
+            <h3>Turning creativity into code is what I enjoy most <br>
+                I'm currently advancing my front-end journey with<br>
+                Javascript after building a strong foundation in HTML and CSS
+            </h3>
+        </div>
+    </section>
+    <div class="divider"></div>
+    <section id="About">
+    <div class="vo">
+    <h1>ABOUT ME</h1>
+    </div>
+    <div class="ao">
+        <p>I'm passionate aspiring front-end developer with a strong interest in creating modern,<br>
+            responsive, and user friendly websites.I enjoy learning new technologies ,building real<br>
+            world projects,and continously improving my development skills.My goal is to become a <br>
+            professional full stack developer and contibute to impactful digital experiences.
+        </p>
+    </div><br>
+    <div class="qo">
+        <i class="fa-solid fa-code"><h3>What I do</h3></i>
+        <p>Front-End Developer in the making. <br>
+           Undergraduate student driven by creativity and curiosity.<br>
+           Designing simple,modern,and responsive web experiences
+        </p>
+    </div>
+    <div class="qo">
+        <i class="fa-solid fa-rocket"><h3>My Journey</h3></i>
+        <p>Every journey starts with a single step.<br>
+           Mine began with curiosity and continues through learning.<br>
+           I'm growing with every object I create.
+        </p>
+    </div>
+    <div class="qo">
+        <i class="fa-solid fa-star"><h3>My strengths</h3></i>
+        <p>.consistent .curious .innovative<br>
+            .focused .dedicated .persistent<br>
+            .adaptable .collaborative .observant
+        </p>
+    </div>
+    <div class="qo">
+        <i class=" fa-solid fa-trophy"><h3>My Goals</h3></i>
+        <p>To create a websites that make a gobal impact.<br>
+            To master modern web technologies.<br>
+            to grow into a trusted developer.
+        </p>
+    </div>
+    </section>
+    <div class="divider"></div>
+    <section id="Skills">
+        <div class="von"><h1>My Skills</h1></div>
+        <div class="ao">
+        <p>I am passionate bout learning new technologies and continously improving my<br>
+            web development skills.Here are the new technologies,tools and abilities I<br>
+            currently work with.
+        </p>
+        </div>
+        <div class="skills">
+            <h2>Front-End development</h2>
+            <ul>
+                <li>HTML5</li>
+                <li>CSS3</li>
+                <li>Responsive Design</li>
+                <li>Flexbox</li>
+                <li>CSS Grid</li>
+                <li>Animation</li>
+            </ul>
+        </div>
+        <div class="skills">
+            <h2>Programming</h2>
+            <ul>
+                <li>Python</li>
+                <li>Javascript</li>
+                <li>Problem solving</li>
+                <li>Logical thinking</li>
+            </ul>
+        </div>
+        <div class="skills">
+            <h2>Tools</h2>
+            <ul>
+                <li>Git</li>
+                <li>Github</li>
+                <li>VS code</li>
+            </ul>
+        </div>
+        <div class="skills">
+            <h2>Soft Skills</h2>
+            <ul>
+                <li>Communicatin</li>
+                <li>Teamwork</li>
+                <li>Management</li>
+                <li>Attention to details</li>
+                <li>Empathy</li>
+                <li>Negotiation</li>
+            </ul>
+        </div>
+    <div class="wow">
+        <div class="wo">
+            <div class="skill-info">
+                <span>HTML</span>
+                <span>93%</span>
+            </div>
+            <div class="progress-bar">
+                <div class="progress html"></div>
+            </div>
+        </div>
+       <div class="wo">
+         <div class="skill-info">
+            <span>CSS</span>
+            <span>90%</span>
+         </div>
+          <div class="progress-bar">
+            <div class="progress css"></div>
+          </div>
+       </div>
+       <div class="wo">
+         <div class="skill-info">
+            <span>JAVASCRIPT</span>
+            <span>50%</span>
+         </div>
+            <div class="progress-bar">
+                <div class="progress js"></div>
+            </div>
+         </div>
+    <div class="wo">
+        <div class="skill-info">
+            <span>PYTHON</span>
+            <span>70%</span>
+        </div>
+        <div class="progress-bar">
+            <div class="progress python"></div>
+        </div>
+    </div>
+</div>
+</div>
+    </section>
+    <br><br>
+    <div class="divider"></div>
+    <section id="Projects">
+        <div class="so"><h1>Projects</h1></div>
+        <div class="ao"><p>These projects mark the beginning of my web development journey.<br>
+            Each one helped me learn new concept and improve my coding skills.As I grow as a developer<br>
+            ,I'll continue refining these projects and adding more creative,responsive,and real-world<br>
+            applications over time. 
+        </p></div>
+        <div class="fo">
+            <h2>Title:&nbsp;Registration form</h2>
+            <span><h3>Tech:&nbsp;Html&nbsp;,&nbsp;CSS</h3></span>
+            <p>Description:&nbsp;A responsive registration form used to collect user's information.It Validates user input
+                and works seamlessly on all devices.
+            </p>
+            <div class="go">
+            <img src="images/registration-form.png" width="100px" height="100px">
+            <a href="images/registration-form.png" target="_blank">View Project</a>
+        </div>
+        </div>
+        <div class="fo">
+            <h2>Title:&nbsp;Tables</h2>
+            <h3>Tech:&nbsp;Html,&nbsp;css</h3>
+            <p>Description:&nbsp;Student record tables made using html and css
+                ,used to show student academic information in a structured format.
+            </p>
+        <div class="go">
+            <img src="images/tables.png" width="100px" height="100px">
+            <a href="images/tables.png" target="_blank">View Project</a>
+        </div>
+        </div>
+        <div class="fo">
+            <h2>Title:&nbsp;CSS heart animation</h2>
+            <h3>Tech:&nbsp;Html,&nbsp;css</h3>
+            <p>Description:&nbsp;A heart animation made using css animations demonstarte the use of 
+                keyframes,transitions and visual effects.
+            </p>
+            <div class="go">
+                <a href="video/heart.mp4" target="_blank">View Project</a>
+            </div>
+        </div>
+        <div class="fo">
+            <h2>Title:&nbsp;BMI Calculator</h2>
+            <h3>Tech:&nbsp;Html,&nbsp;Css,&nbsp;Javascript</h3>
+            <p>Description:&nbsp;BMI calculator check body mass index accurately upto two
+                decimal places create using javascript and response under various conditions.
+            </p>
+            <div class="go">
+                <img src="images/bmi.png" width="100px" height="100px">
+                <a href="https://umaima6424-lab.github.io/bmi-calculator/">Live Demo</a>
+            </div>
+        </div>
+    </section>
+    <div class="divider"></div>
+    <section id="Contact">
+        <div class="lo"><h1>Contact Me</h1></div>
+        <div class="hud-card">
+        <form action="https://formsubmit.co/umaima6424@gmail.com" method="POST">
+            <label>Name</label>
+            <input type="text" name="name" required>
+            <label>Email</label>
+            <input type="email" name="email" required>
+            <label>Message me</label>
+            <textarea rows="5" name="message" required></textarea>
+            <button type="submit" class="submit">Submit</button>
+        </form>
+        <p class="info"><a href="mailto:umaima6424@gmail.com" target="_blank">Email:umaima6424@gmail.com</a></p>
+        </div>
+     </div>
+    </section>
+    <footer>@2026umama javed.All Rights Reserved</footer>
+       <script src="script.js"></script>
+</body>
+</html>
