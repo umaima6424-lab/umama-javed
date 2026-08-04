@@ -485,6 +485,7 @@ footer{
      nav{
         height:auto;
         padding:15px;
+         display:flex;
         flex-direction: column;
         border-radius: 20px;
      }
@@ -504,6 +505,10 @@ footer{
         display: block !important;
         margin: 10px 0 !important;
      }
+    body{
+        display:flex;
+        justify-content:center;
+        align-items:center;
      a{
         font-size:16px;
      }
