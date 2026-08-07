@@ -624,6 +624,25 @@ footer{
         margin-top:0;
         gap: 120px;
      }
+     .qo-h{
+          display: flex;
+          align-items: center;
+          gap:25px;
+          flex-wrap: nowrap;
+     }
+    .info a{
+        word-wrap:break-word;
+        overflow-wrap: break-word;
+        word-break: break-all;
+        max-width: 100%;
+        box-sizing: border-box;
+    }
+    .ao p{
+          font-family: Arial, Helvetica, sans-serif;
+    }
+    .hi{
+        font-family: Arial, Helvetica, sans-serif;
+    }
      .skills{
         display: grid;
         grid-template-columns: 1fr;
