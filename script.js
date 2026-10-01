@@ -23,6 +23,12 @@ function typeWriter() {
         heading.innerHTML += text.charAt(i);
         i++;
         setTimeout(typeWriter, 80);
+        const hamburger = document.querySelector(".nav-i");
+const navMenu = document.querySelector(".jo");
+
+hamburger.addEventListener("click", () => {
+    navMenu.classList.toggle("active");
+});
     }
 }
 
